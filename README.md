@@ -1,9 +1,10 @@
+<!---
 # README
 
 ### We have provided a simple demonstration of F-FMPA (free to migrate it to other FL scenarios). It aims to launch precise model poisoning attacks (MPAs) in federated learning.
 
 #### Test:
-<!---
+
 - run **FMPA.py ** for attacking federated learning.
 
 
